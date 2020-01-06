@@ -1,3 +1,4 @@
+#Made for the sole purpose of GCI-2019
 from bot import fedorainfrabot
 import getforks
 import time
