@@ -16,7 +16,7 @@ def make_reply(msg):
         reply="Welcome to the Fedora-Infra Bot\nI am designed to fetch the number of forks for each repository of fedora-infra.\nJust type /forks\nFor more info type /what"
 
     elif msg[0:5]=="/fork" :
-        if len(msg)>6:
+        if len(msg)>7:
             try:
                 a=msg[6:]
                 tmp1=getforks.textdict()
