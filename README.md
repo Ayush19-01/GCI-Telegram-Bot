@@ -6,5 +6,10 @@ If you want to test the python code yourself clone or download the repository, c
 
 You can also interact with the bot yourself , as explained above.
 
+## Working:
+### 1)
+![alt text](https://github.com/Ayush19-01/GCI-Telegram-Bot/blob/master/Screenshot_20200106-120923_Telegram.jpg)
 
+### 2)
+![alt text](https://github.com/Ayush19-01/GCI-Telegram-Bot/blob/master/Screenshot_20200106-120942_Telegram.jpg)
 
