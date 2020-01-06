@@ -1,3 +1,4 @@
+#Made for the sole purpose of GCI-2019
 import requests
 import json
 import configparser as cfg
