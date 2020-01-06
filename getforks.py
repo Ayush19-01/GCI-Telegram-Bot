@@ -20,3 +20,9 @@ def textno():
     for i in forks:
         l.append((f"{i['name']}:   {i['forks']} forks\n"))
     return(l)
+def textdict():
+    d={}
+    forks=getforks()
+    for i in forks:
+        d[f"{i['name']}"]=f"{i['forks']}"
+    return d
